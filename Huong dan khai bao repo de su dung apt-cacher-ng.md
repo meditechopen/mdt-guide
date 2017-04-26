@@ -1,6 +1,6 @@
 # Hướng dẫn khai báo repo trên clients để sử dụng apt-cacher-ng
 
-**Ubuntu**
+## Ubuntu
 
 - Tiến hành chạy dòng lệnh sau để khai báo repos:
 
@@ -14,7 +14,7 @@ Ví dụ:
 
 `apt-get update -y`
 
-**CentOS**
+## CentOS
 
 - Tiến hành khai báo repo bằng câu lệnh: 
 
@@ -27,3 +27,4 @@ Ví dụ:
 - Update trước khi tiến hành tải các packages:
 
 `yum update -y`
+
